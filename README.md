@@ -1,5 +1,5 @@
 # word_frequency_rank
-rank word frequency from dataset
+Rank word frequency from dataset and output with num + word.
 ## Usage
 > python word_frequency_hard.py
 
